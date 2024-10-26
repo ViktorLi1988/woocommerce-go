@@ -1,4 +1,4 @@
-github.com/ViktorLi1988/woocommerce-go
+module github.com/ViktorLi1988/woocommerce-go
 
 go 1.17
 
