@@ -3,7 +3,7 @@ package woocommerce
 import (
 	"fmt"
 	"github.com/araddon/dateparse"
-	"github.com/hiscaler/woocommerce-go/constant"
+	"github.com/ViktorLi1988/woocommerce-go/constant"
 	"strings"
 	"time"
 )

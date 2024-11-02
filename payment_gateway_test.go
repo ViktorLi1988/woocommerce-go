@@ -2,7 +2,7 @@ package woocommerce
 
 import (
 	"github.com/brianvoe/gofakeit/v6"
-	"github.com/hiscaler/woocommerce-go/entity"
+	"github.com/ViktorLi1988/woocommerce-go/entity"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )
